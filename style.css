@@ -1,0 +1,251 @@
+
+div.headd{
+  background-color: rgb(231, 238, 239);
+  height: 115px;
+}
+
+nav{
+  background-color:rgba(236, 229, 229, 0.812);
+}
+
+span.logo{
+  position:absolute;
+  top: 35px;
+  right: 83%;
+}
+
+.title{
+  position:absolute;
+  text-transform: uppercase;
+  top: 40px;
+  right: 75%;
+}
+
+.banner{
+  position: absolute;
+  top: 13px;
+  right: -20%;
+}
+
+.alakh_pandey{
+  position:relative;
+  left: 1350px;
+  top: -4px;
+}
+
+span.home{
+  position:relative;
+  left: 50px;
+  width: 75px;
+  color: black;
+}
+
+span.batches{
+  position:relative;
+  left: 75px;
+  width: 75px;
+  color: black;
+}
+
+span.mission{
+  position:relative;
+  left: 100px;
+  width: 75px;
+  color: black;
+}
+
+span.about{
+  position:relative;
+  left: 125px;
+  width: 75px;
+  color: black;
+}
+
+span.email{
+  position:relative;
+  left: 900px;
+  width: 75px;
+}
+
+span.youtube{
+  position:relative;
+  left: 930px;
+  width: 75px;
+}
+span.insta{
+  position:relative;
+  left: 960px;
+  width: 75px;
+}
+
+span.loginlogo,span.logintext{
+  position:relative;
+  left: 990px;
+  width: 75px;
+}
+
+.aboutpage{
+  background-image: url("model-3211627__340.webp");
+  background-size: 100%;
+  color: white;
+}
+
+div.KnowaboutPhysicsWallah{
+  position:relative;
+  left: 15%;
+  top: 40px;
+}
+
+div.WeStandOutbecause{
+  position:relative;
+  left:60% ;
+}
+
+div.OurKeyFocusAreas{
+  position:relative;
+  left: 15%;
+  bottom: 40px;
+}
+
+div.WhatMakesUsDifferent{
+  position:relative;
+  bottom: 70px;
+  left:60% ;
+}
+
+.aboutus{
+  text-align: center;
+}
+
+div.batches{
+  background-color: black;
+  height: 800px;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-image: url("gray-empty-room-studio-.jpg");
+  background-size: 100%;
+}
+
+div.alakhh{
+  position: relative;
+  left: 65%;
+  top: 70px;
+}
+
+.batchesheading{
+  position: relative;
+  left: 40px;
+  top: 20px;
+  text-decoration:none ;
+  font-size: 40px;
+}
+
+.categories{
+  color: blue;
+}
+
+
+table,td,th{
+  border: 2px solid;
+  }
+ 
+div.table{
+  position: relative;
+  left: -850px;
+  top: -500px;
+  }  
+
+div.class11{
+  position: relative;
+  top: -420px;
+  left: 50px;
+}
+
+.jeeneet{
+  position:absolute;
+  left: 50px;
+  top: 300px;
+  text-decoration: underline;
+}
+
+div.class12{
+  position: relative;
+  top: -545px;
+  left: 350px;
+}
+
+div.dropper{
+  position: relative;
+  top: -670px;
+  left: 650px;
+}
+
+.govtexam{
+  position:absolute;
+  left: 50px;
+  top: 525px;
+  text-decoration: underline;
+}
+
+div.SSC{
+  position: relative;
+  top: -570px;
+  left: 50px;
+}
+
+div.BANKING{
+  position: relative;
+  top: -698px;
+  left: 350px; 
+}
+
+div.TEACHING{
+  position: relative;
+  top: -825px;
+  left: 650px;
+}
+
+.PWOFFLINE{
+  position:absolute;
+  left: 50px;
+  top: 760px;
+  text-decoration: underline;
+}
+
+div.VIDYAPEETH{
+  position: relative;
+  top: -715px;
+  left: 50px;
+}
+
+div.PATHSHALA{
+  position: relative;
+  top: -843px;
+  left: 350px; 
+}
+
+.jeeneets{
+  position: absolute;
+  top: 100px;
+  left: 60px;
+}
+
+.govtexams{
+  position: absolute;
+  top: 320px;
+  left: 60px;
+}
+
+.PWOFFLINEs{
+  position: absolute;
+  top: 550px;
+  left: 60px;
+}
+
+.batchesheadings{
+  position: absolute;
+  top: 35px;
+  font-size: 40px;
+  left: 57px;
+}
+
